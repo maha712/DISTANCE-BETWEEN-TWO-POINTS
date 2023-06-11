@@ -17,9 +17,13 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 #RegisterNumber:212222240057
 
 import math
+
 l2 = [10,6]
+
 11 = [4,2]
+
 distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
+
 print("{:.2f}".format(distance))
 ### OUTPUT:
 ![Screenshot (112)](https://github.com/maha712/DISTANCE-BETWEEN-TWO-POINTS/assets/121156360/20ba7aab-2af2-4144-980a-1b2af840b2af)
