@@ -11,8 +11,11 @@ Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 5: 
 ### PROGRAM:
 #Program to find the distance between two points.
+
 #Developed by:Mahalakshmi.K 
+
 #RegisterNumber:212222240057
+
 import math
 l2 = [10,6]
 11 = [4,2]
